@@ -1,2 +1,4 @@
 runs:
-  command: node dist/index.js
+  command:
+    - node
+    - dist/index.js
