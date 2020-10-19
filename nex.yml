@@ -1,4 +1,5 @@
 runs:
+  image: node:latest
   command:
     - node
     - dist/index.js
